@@ -25,7 +25,7 @@
   - Achieved an AUC score of `0.9628` and a final accuracy of `97.2%`.
 
 #### ROC Curve for Specific Test II
-![ROC Curve - Specific Test II](Test%20II\Test_II_ROC_Curve.png)
+![ROC Curve - Specific Test II](Test%20II/Test_II_ROC_Curve.png)
 
 ---
 
@@ -38,4 +38,4 @@
   - Achieved a validation AUC score of `0.9821`.
 
 #### ROC Curve for Specific Test V
-![ROC Curve - Specific Test V](Test%20V\Test_V_ROC_Curve.png)
+![ROC Curve - Specific Test V](Test%20V/Test_V_ROC_Curve.png)
